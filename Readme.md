@@ -5,5 +5,8 @@ Proyecto de juego de golf en 2D estilo pixelart hecho en Unity
 - Descarga y descomprime el archivo rar
 - Abre el .exe llamado "Tutugolf" sin sacar nada de la carpeta fuente, sino no funcionará
 
+## Web en Itch.io:  
+Podes ver la pagina del juego haciendo click [AQUI](https://julenrc.itch.io/tutugolf-alpha-01)
+
 ## Autor:  
 Julen Calboechene
